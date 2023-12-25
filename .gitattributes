@@ -1,2 +1,6 @@
-* linguist-vendored
+* linguist-vendored=false
+
+# Unity specific files
+Assets/* linguist-language=C#
+Assets/* linguist-language=Unity
 Assets/* linguist-vendored=false
