@@ -1,2 +1,2 @@
-*.cs     text
-*.shader text
+* linguist-vendored
+Assets/* linguist-vendored=false
