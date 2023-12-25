@@ -1,1 +1,1 @@
-*.shaderlab linguist-detectable=false
+**/shaders/* linguist-vendored=true
